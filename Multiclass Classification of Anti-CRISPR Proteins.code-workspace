@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Multiclass Classification of Anti-CRISPR Proteins",
+			"path": "."
+		},
+		{
+			"name": "Acr_pAcr_Sequence_Files",
+			"path": "../../../Downloads/Acr_pAcr_Sequence_Files"
+		}
+	],
+	"settings": {}
+}
